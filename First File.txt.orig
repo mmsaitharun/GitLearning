@@ -9,8 +9,13 @@ git push -u origin master
 git remote add origin https://github.com/mmsaitharun/gitlearning.git
 git push -u origin master
 …or import code from another repository
-<<<<<<< HEAD
 Line Added from First WS
-=======
 Line added from second ws
->>>>>>> again line added from second ws
+
+
+<<<<<<< HEAD
+
+New line added from 2nd WS
+=======
+New Line added from 1st WS
+>>>>>>> b58426dd94f3b0f8dc9b1d400e0f591dc061ebb1
